@@ -1,0 +1,16 @@
+git = checks if git is installed in the laptop. see git help -a
+
+git init = Makes the folder to start using git, DONE ONLY ONCE.
+
+git add . = Adds all filess in the folder to be tracked by git.
+
+git commit -m "first commit " = Adds a message to your changes.
+
+git config --global user.email "youremailusedfromgithub". DONE ONCE.
+
+git config --global user.name "yourgithubusername". DONE ONCE.
+
+git remote add origin https://github.com/mwemz105-tech/html
+connects the folder in your computer to the github repo. DONE ONCE
+
+git push origin master - Pushes code from comp to github repo.
