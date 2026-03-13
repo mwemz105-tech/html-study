@@ -13,4 +13,4 @@ git config --global user.name "yourgithubusername". DONE ONCE.
 git remote add origin https://github.com/mwemz105-tech/html
 connects the folder in your computer to the github repo. DONE ONCE
 
-git push origin master - Pushes code from comp to github repo.
+git push origin master - Pushes code from comp to github repo.s
